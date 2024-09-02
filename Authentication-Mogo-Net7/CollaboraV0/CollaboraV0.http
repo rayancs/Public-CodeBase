@@ -1,0 +1,6 @@
+@CollaboraV0_HostAddress = http://localhost:5290
+
+GET {{CollaboraV0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
